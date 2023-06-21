@@ -1,2 +1,2 @@
-# Aula13.06
-Aula realizada no dia 13/06 
+# Lista de Exercício 4
+Lista de exercícios realizada para obtenção de nota na disciplica de Raciocínio Algoritimico 
